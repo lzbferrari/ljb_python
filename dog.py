@@ -1,0 +1,8 @@
+print('输入第一个数字')
+a=input()
+x=int(a)
+print('输入第二个数字')
+b=input()
+y=int(b)
+print('这是它们的和')
+print(x+y) 
