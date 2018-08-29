@@ -14,4 +14,5 @@ for m in range(0,101):
     f = random.randint(0, 400)
     canvas.create_polygon(a, b, c, d, e, f, fill=g[h],outline="black")
     g = ['red', 'pick', 'green']
+
 tk.mainloop()
