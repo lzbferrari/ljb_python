@@ -86,3 +86,5 @@ for m in range(0,3):
     rrr = oooo
     canvas.create_polygon(pp,ppp,ou,ouu,rr,rrr,fill=ss[ww],outline="black")
 tk.mainloop()
+
+

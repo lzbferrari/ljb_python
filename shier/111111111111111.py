@@ -32,3 +32,5 @@ for m in range(0,3):
     t = n
     canvas.create_polygon(o,p,q,r,s,t,fill=y[z],outline="black")
 tk.mainloop()
+
+
