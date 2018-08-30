@@ -14,7 +14,7 @@ for m in range(0,3):
     f = 110
     canvas.create_polygon(a,b,c,d,e,f,fill=g[h],outline="black")
     x = ['red', 'pink', 'green', 'gray']
-    u = random.randint(0, 2)
+    u = random.randint(0,3)
     i = a + 90
     j = b
     k = c * 2
